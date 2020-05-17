@@ -7,4 +7,5 @@ La <strong>API</strong> se llama <strong>DOG API</strong> y pueden consutar toda
 
 A continuación se muestran algunas capturas de pantalla de la aplicación creada en Java:
 
+![image](https://user-images.githubusercontent.com/22751324/82137797-c44bec80-97e0-11ea-905f-d02c6ab82f4a.png)
 
