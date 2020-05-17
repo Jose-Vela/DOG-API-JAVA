@@ -11,4 +11,6 @@ A continuación se muestran algunas capturas de pantalla de la aplicación cread
 
 ![image](https://user-images.githubusercontent.com/22751324/82137838-0d03a580-97e1-11ea-97dd-bb886837140d.png)
 
+![image](https://user-images.githubusercontent.com/22751324/82137907-b5b20500-97e1-11ea-87ce-2fda0fcf34db.png)
+
 
